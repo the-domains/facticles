@@ -1,0 +1,28 @@
+name: Facticles
+favicon: null
+layout_spectrum: 0.0775441899895668
+typography_spectrum: 0.9413960939273238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.059194812551140785
+  lightness: 0.8202174126636237
+  saturation: 0.6350492187775671
+  rhythmicContrast: 0.3197867830749601
+purpose: []
