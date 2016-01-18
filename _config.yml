@@ -1,6 +1,6 @@
 name: Facticles
 favicon: null
-layout_spectrum: 0.92268
+layout_spectrum: 0.50734
 typography_spectrum: 0.09343
 title: Facticles
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.4375
   lightness: 0.8202174126636237
   saturation: 0.6350492187775671
-  rhythmicContrast: 0.3197867830749601
+  rhythmicContrast: 0.25
 purpose: []
