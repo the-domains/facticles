@@ -2,6 +2,7 @@ name: Facticles
 favicon: null
 layout_spectrum: 0.92268
 typography_spectrum: 0.09343
+title: Facticles
 cta:
   domain: null
   bucket: null
